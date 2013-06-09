@@ -21,7 +21,7 @@
     android:id="@+id/load_more_footer"
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
-    android:background="@color/black" >
+    android:background="@android:color/transparent" >
 
     <View
         android:id="@+id/top_line"
